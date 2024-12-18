@@ -1,0 +1,15 @@
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/dto/PersonDTO.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/repository/PersonRepository.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/repository/PersonRepositoryImpl.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/dto/AbstractDTO.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/mvc/PersonController.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/target/generated-sources/java/net/mzouabi/ng2/server/model/QPerson.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/target/generated-sources/java/net/mzouabi/ng2/server/model/QAbstractEntity.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/model/Person.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/ServerApplication.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/repository/PersonRepositoryCustom.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/mapper/PersonMapper.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/target/generated-sources/java/net/mzouabi/ng2/server/mapper/PersonMapperImpl.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/service/PersonServiceImpl.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/model/AbstractEntity.java
+/home/jess/Escritorio/Frontend-Backend-Demo/server/src/main/java/net/mzouabi/ng2/server/service/PersonService.java
